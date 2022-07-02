@@ -7,12 +7,13 @@ import { images } from './constant';
 import './App.css';
 const App = () => {
   const mystyle = {
-    width: '300px',
+    width: '100%',
     height: '319px',
     background: '#130b2b',
   };
   const gridstyle = {
     display: 'grid',
+    width: '100%',
   };
   return (
     <div>

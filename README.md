@@ -19,3 +19,27 @@ mempraktekan best practice website dengan react
 
 Body :App.js
 root : index.js
+style css : App.css(styling All component),index.css(root)
+
+## media queries examples:
+
+src/container/footer.css
+
+@media screen and (min-width: 2000px) {
+sreen <= 2000px
+}
+
+@media screen and (max-width: 1150px) {
+sreen >= 1150px
+screen more then 1150px
+}
+
+@media screen and (max-width: 650px) {
+sreen >= 650px
+screen more then 650px
+}
+
+@media screen and (max-width: 350px) {
+sreen >= 350px
+screen more then 350px
+}
