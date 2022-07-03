@@ -8,13 +8,14 @@ import './App.css';
 const App = () => {
   const mystyle = {
     width: '100%',
-    height: '319px',
+    height: '119px',
     background: '#130b2b',
   };
   const gridstyle = {
     display: 'grid',
     width: '100%',
   };
+  //jsx code
   return (
     <div>
       <Navbar />
