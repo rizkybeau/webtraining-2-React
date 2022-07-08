@@ -40,6 +40,9 @@ const Gallery = () => {
             images.gallery02,
             images.banner,
             images.gallery04,
+            images.gallery02,
+            images.gallery01,
+            images.gallery04,
           ].map((image, index) => (
             <div
               className="app__gallery-images_card flex__center"
