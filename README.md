@@ -1,6 +1,7 @@
 # React App
 
 mempraktekan best practice website dengan react
+Create Landing Page with React : Real Estate Landing Page 
 
 ## Step By Step
 
